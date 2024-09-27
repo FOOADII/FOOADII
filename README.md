@@ -1,5 +1,5 @@
 
-[![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://sumansauravmay.github.io)
+[![MasterHead](https://cdn.pixabay.com/photos/software-developer-web-developer-6521720/)](https://FOOADII.github.io)
 <h1 align="center">Hi 👋, I'm Fuad Getachew</h1>
 <h3 align="center">A passionate Full Stack Web Developer and mobile application Developer</h3>
 
@@ -27,12 +27,12 @@
 
 # 📊 GitHub Stats
 <!-- <h2 align="center">📊 GitHub Stats</h2> -->
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumansauravmay&show_icons=true&locale=en&layout=compact" alt="FOOADII" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FOOADII&show_icons=true&locale=en&layout=compact" alt="FOOADII" /></p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumansauravmay&show_icons=true&locale=en" alt="sumansauravmay" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FOOADII&show_icons=true&locale=en" alt="FOOADII" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumansauravmay" alt="sumansauravmay" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FOOADII" alt="FOOADII" /></p>
 
 ## 🏆 GitHub Trophies
 <!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
