@@ -1,5 +1,5 @@
 
-[![MasterHead](https://cdn.pixabay.com/photos/software-developer-web-developer-6521720/)](https://FOOADII.github.io)
+[![MasterHead](https://cdn.pixabay.com/illustrations/developer-programmer-coding-8764523/)](https://FOOADII.github.io)
 <h1 align="center">Hi 👋, I'm Fuad Getachew</h1>
 <h3 align="center">A passionate Full Stack Web Developer and mobile application Developer</h3>
 
