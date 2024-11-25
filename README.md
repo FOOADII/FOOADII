@@ -6,11 +6,11 @@
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated"/>
 
 # 💫 About Me:
-- 🌱 I’m a **MERN developer** and have around a year of front-end experience.
+- 🌱 I’m a **MERN developer** with around a year of front-end experience.
 
 - 👨‍💻 All of my projects are available at [https://FOOADII.github.io/](https://FOOADII.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JS, React.js, Next.js, Redux, Storybook, Typescript**
+- 💬 Ask me about **HTML, CSS, JS, React.js, Next.js, Redux, Storybook, Typescript, AngularJS**
 
 - 📫 How to reach me **Fuadgetachew2@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mN4jx7BBs0BOWYk0dbQyWHwjjDMdjZ/view?usp=sharing]
