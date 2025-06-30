@@ -2,7 +2,7 @@
 <p align="center"><strong>A passionate open source lover, startup builder & software engineer</strong></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fuadgetachew&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=FOOADII&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on **Freelance Dire** – a freelance marketplace for Eastern Ethiopia.
 - 🌱 I’m learning **Flutter**, **Firebase**, **TypeScript**, and **Startup building**.
 - 💬 Ask me about **Flutter**, **Startups**, or **University tech life**.
-- 📫 Reach me at: [fuadgetachew@gmail.com](mailto:fuadgetachew@gmail.com)
-- 👨‍💻 All of my projects are available at: [https://github.com/fuadgetachew](https://github.com/fuadgetachew)
+- 📫 Reach me at: [fuadgetachew@gmail.com](mailto:fuadgetachew2@gmail.com)
+- 👨‍💻 All of my projects are available at: [https://github.com/FOOADII](https://github.com/FOOADII)
 
 ---
 
@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuadgetachew&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadgetachew&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FOOADII&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOOADII&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ### 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadgetachew&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FOOADII&theme=radical" />
 </p>
 
 ---
@@ -50,9 +50,8 @@
 ### 📈 Contribution Graph Animation
 
 <p align="center">
-  <img src="https://github.com/fuadgetachew/fuadgetachew/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/FOOADII/FOOADII/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-<img src="https://github.com/fuadgetachew/fuadgetachew/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 > ℹ️ You must set up [Platane/snk](https://github.com/Platane/snk) or let me help you automate this via GitHub Actions.
 
@@ -61,22 +60,22 @@
 ### 🌍 Where I'm From & Links
 
 - 🏠 Dire Dawa, Ethiopia  
-- 🌐 Telegram: [@fuadgetachew](https://t.me/fuadgetachew)  
-- 💼 LinkedIn: [Fuad Getachew](https://linkedin.com/in/fuadgetachew)  
+- 🌐 Telegram: [@fuadgetachew](https://t.me/OptimizedX)  
+- 💼 LinkedIn: [Fuad Getachew](https://linkedin.com/in/fuad-getachew)  
 - 🐦 Twitter: [@fuadgetachew](https://twitter.com/fuadgetachew)  
-- 📷 Instagram: [@fuadgetachew](https://instagram.com/fuadgetachew)
+- 📷 Instagram: [@fuadgetachew](https://instagram.com/yo.optimizedX)
 
 ---
 
 ### 📌 Pinned Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fuadgetachew&repo=your-project-1&theme=radical)](https://github.com/fuadgetachew/your-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fuadgetachew&repo=your-project-2&theme=radical)](https://github.com/fuadgetachew/your-project-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FOOADII&repo=Auto-detector&theme=radical)](https://github.com/FOOADII/Auto-detector)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FOOADII&repo=nano-e-commerce&theme=radical)](https://github.com/FOOADII/nano-e-commerce)
 
 ---
 
 ### 🏆 Achievements
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=fuadgetachew&theme=onedark&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FOOADII&theme=onedark&column=6"/>
 </p>
