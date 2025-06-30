@@ -52,6 +52,7 @@
 <p align="center">
   <img src="https://github.com/fuadgetachew/fuadgetachew/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+<img src="https://github.com/fuadgetachew/fuadgetachew/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 > ℹ️ You must set up [Platane/snk](https://github.com/Platane/snk) or let me help you automate this via GitHub Actions.
 
