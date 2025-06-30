@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Fuad Getachew! 👋</h1>
-<p align="center"><strong>A passionate open source lover, startup builder & software engineer</strong></p>
+<p align="center"><strong>A Full stack dev, startup builder & software engineer</strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FOOADII&style=flat-square&color=blue" alt="Profile views" />
@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Freelance Dire** – a freelance marketplace for Eastern Ethiopia.
 - 🌱 I’m learning **Flutter**, **Firebase**, **TypeScript**, and **Startup building**.
 - 💬 Ask me about **Flutter**, **Startups**, or **University tech life**.
-- 📫 Reach me at: [fuadgetachew@gmail.com](mailto:fuadgetachew2@gmail.com)
+- 📫 Reach me at: [fuadgetachew2@gmail.com](mailto:fuadgetachew2@gmail.com)
 - 👨‍💻 All of my projects are available at: [https://github.com/FOOADII](https://github.com/FOOADII)
 
 ---
@@ -52,20 +52,6 @@
 <p align="center">
   <img src="https://github.com/FOOADII/FOOADII/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-> ℹ️ You must set up [Platane/snk](https://github.com/Platane/snk) or let me help you automate this via GitHub Actions.
-
----
-
-### 🌍 Where I'm From & Links
-
-- 🏠 Dire Dawa, Ethiopia  
-- 🌐 Telegram: [@fuadgetachew](https://t.me/OptimizedX)  
-- 💼 LinkedIn: [Fuad Getachew](https://linkedin.com/in/fuad-getachew)  
-- 🐦 Twitter: [@fuadgetachew](https://twitter.com/fuadgetachew)  
-- 📷 Instagram: [@fuadgetachew](https://instagram.com/yo.optimizedX)
-
----
 
 ### 📌 Pinned Projects
 
