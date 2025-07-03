@@ -8,8 +8,6 @@
 ---
 
 - 🔭 I’m currently working on **Freelance Dire** – a freelance marketplace for Eastern Ethiopia.
-- 🌱 I’m learning **Flutter**, **Firebase**, **TypeScript**, and **Startup building**.
-- 💬 Ask me about **Flutter**, **Startups**, or **University tech life**.
 - 📫 Reach me at: [fuadgetachew2@gmail.com](mailto:fuadgetachew2@gmail.com)
 - 👨‍💻 All of my projects are available at: [https://github.com/FOOADII](https://github.com/FOOADII)
 
